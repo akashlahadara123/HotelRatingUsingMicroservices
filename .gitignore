@@ -1,0 +1,13 @@
+.metadata/
+
+**/target/
+
+**/.classpath
+
+**/.project
+
+**/.settings/
+
+**/.DS_Store
+
+**/application-local.properties
